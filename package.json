@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-group-indices-by",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Group element indices according to an indicator function.",
   "license": "Apache-2.0",
   "author": {
